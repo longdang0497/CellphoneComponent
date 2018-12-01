@@ -23,5 +23,6 @@ namespace CellphoneComponent.UI
         {
             InitializeComponent();
         }
+
     }
 }
